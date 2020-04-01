@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ACTION_BAR_MENU</string>
+    <string name="android">ANDROID</string>
+    <string name="rest_api">REST API</string>
+    <string name="java">JAVA</string>
+</resources>
